@@ -14,3 +14,6 @@
 
 
 // プログラムに必要な追加ヘッダーをここで参照してください
+#include<limits>
+#include<string>
+#include<iostream>
